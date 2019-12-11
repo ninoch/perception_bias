@@ -1,4 +1,4 @@
-This is a experimental results for the paper ["Friendship Paradox Biases Perceptions in Directed Networks"](https://arxiv.org/abs/1905.05286). You can find the dataset used for this experiments in [Open Science Framework](https://osf.io/pjkr9/). All the results are available in the notebook. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results`. 
+This is a experimental results for the paper ["Friendship Paradox Biases Perceptions in Directed Networks"](https://arxiv.org/abs/1905.05286). You can find the dataset used for this experiments in [Open Science Framework](https://osf.io/pjkr9/). All the results are available in the notebook. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results` after running the experiments. 
 
 
 # System Requirements
