@@ -1,4 +1,4 @@
-This is a experimental results for the paper ["Friendship Paradox Biases Perceptions in Directed Networks"](https://arxiv.org/abs/1905.05286). You can find the dataset used for this experiments in [Open Science Framework](https://osf.io/pjkr9/). All the results are available in the notebook. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results` after running the experiments. 
+This is a experimental results for the paper ["Friendship Paradox Biases Perceptions in Directed Networks"](https://arxiv.org/abs/1905.05286). You can find the dataset used for this experiments in [Open Science Framework](https://osf.io/pjkr9/). All the results are saved in the notebook of the repository. 
 
 
 # System Requirements
@@ -10,7 +10,7 @@ A standard computer with enough RAM to support the in-memory operations would be
 This package is supported for any system with Jupyther notebook installed. It has been tested on macOS Mojave (10.14.5).
 
 ### Python Dependencies
-Python 3.7 have been used to run the experiments. The following python packages are neccessary to run the experiments. 
+Python 3.7 have been used to run the experiments. The following python packages are required to run the experiments:
 ```
 numpy
 scipy
@@ -18,6 +18,10 @@ pandas
 matplotlib
 seaborn
 ```
+You can install packages using `pip` or `conda`. 
+
+### Run
+After installing required packages in python, you need to run all cells of `Friendship Paradox Biases Perceptions in Directed Networks.ipynb` file. The results would be shown in output of each cell. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results`. It took 1-2 days to run the program on macbook Pro. 
 
 # Cite
 Please cite our paper if you use this code or data in your own work:
