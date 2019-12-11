@@ -21,7 +21,7 @@ seaborn
 You can install packages using `pip` or `conda`. 
 
 ### Run
-After installing required packages in python, you need to run all cells of `Friendship Paradox Biases Perceptions in Directed Networks.ipynb` file. The results would be shown in output of each cell. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results`. It took 1-2 days to run the program on macbook Pro for real data. For the small synthetic generated data it took less than 5 minutes. 
+After installing required packages in python, you need to run all cells of [`Friendship Paradox Biases Perceptions in Directed Networks.ipynb`](https://github.com/ninoch/perception_bias/blob/master/Friendship%20Paradox%20Biases%20Perceptions%20in%20Directed%20Networks.ipynb) file. The results would be shown in output of each cell. You can find generated figures in `/Plots`, and pickles of processed data in `/store_results`. It took 1-2 days to run the program on macbook Pro for real data. For the small synthetic generated data it took less than 5 minutes. 
 
 # Cite
 Please cite our paper if you use this code or data in your own work:
